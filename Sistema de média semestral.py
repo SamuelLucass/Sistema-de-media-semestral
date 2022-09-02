@@ -4,7 +4,7 @@ Num2 = float(input("Digite a nota do segundo semestre: "))
 Num3 = float(input("Digite a nota do terceiro semestre: "))
 Num4 = float(input("Digite a nota do quarto semestre: "))
 
-#equação para cehagar a média dos alunos
+#equação para calcular a média dos alunos
 Soma = Num1 + Num2 + Num3 + Num4
 Media = Soma / 4
 
